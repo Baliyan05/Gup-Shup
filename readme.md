@@ -102,7 +102,7 @@ Server
 ## ⚙️ Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Baliyan05/Gup-Shup.git
 
 cd server
 npm install
